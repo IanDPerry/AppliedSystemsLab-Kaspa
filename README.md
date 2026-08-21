@@ -13,6 +13,6 @@ This repository documents Standard Operating Procedures (SOPs) developed during 
 
 ## Author
 Ian Perry 
-IT Undergraduate Student @ Purdue Global  
+IT Graduate - Purdue Global  
 GPA: 3.7  
 Focus: Python development, infrastructure planning, operational resilience  
